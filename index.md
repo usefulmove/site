@@ -68,7 +68,7 @@ leadership, executive communication, coaching and team development.
 Technical & Tools:
 
 Systems engineering, robotics, automation, mechatronics, embedded systems, algorithms (Python, Scala, Rust), data
-analysis and visualization (SQL, DuckDB, Polars, R), UX development (React, TypeScript, Figma), simulation and modeling.
+analysis and visualization (SQL, DuckDB, Polars, R), UI/UX development (React, TypeScript, Figma), simulation and modeling.
 
 Standards & Compliance:
 
