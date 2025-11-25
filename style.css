@@ -1,0 +1,212 @@
+/* Controls: tweak fonts, colors, and spacing here.
+   - Typography: --font-family, --font-size-base, --line-height
+   - Color: swap the hex values below (background, text, accents)
+   - Layout/spacing: --max-width, --block-padding, --section-gap
+*/
+:root {
+  --bg: #1e1f29;
+  --bg-alt: #1d1f23;
+  --panel: #242733;
+  --panel-strong: #2a2e3a;
+  --text: #e5e9f0;
+  --muted: #4c566a;
+  --accent-yellow: #ebcb8b;
+  --accent-blue: #81a1c1;
+  --accent-cyan: #88c0d0;
+  --border: #2f3441;
+  --border-strong: #353b48;
+  --font-family: "Space Mono", "SFMono-Regular", ui-monospace, "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
+  --font-size-base: 20px; /* raise/lower to scale type */
+  --line-height: 1.7; /* increase for more breathing room */
+  --max-width: 1080px; /* shell width */
+  --block-radius: 8px;
+  --block-padding: 1.05rem 1.15rem;
+  --section-gap: 1.5rem; /* vertical rhythm */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height);
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: rgba(129, 161, 193, 0.25);
+}
+
+.shell {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 52px 22px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--section-gap);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text);
+  margin: 0 0 0.4rem 0;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  color: var(--accent-blue);
+}
+
+p {
+  margin: 0 0 0.95rem 0;
+}
+
+ul, ol {
+  margin: 0.2rem 0 0.95rem 1.1rem;
+  padding: 0;
+}
+
+a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+strong {
+  color: var(--text);
+}
+
+em {
+  color: var(--accent-blue);
+}
+
+code {
+  background: var(--panel);
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  color: var(--accent-yellow);
+}
+
+pre {
+  background: var(--panel);
+  border-radius: var(--block-radius);
+  border: 1px solid var(--border);
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 1.2rem 0;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.prompt-line {
+  color: var(--accent-yellow);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.4rem;
+  display: inline-block;
+}
+
+.header-line {
+  color: var(--accent-cyan);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.9rem;
+}
+
+/* Terminal-style blocks: duplicate in Markdown to add new sections. */
+.prompt-block {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--block-radius);
+  padding: var(--block-padding);
+  margin: 0;
+}
+
+.prompt-block,
+.prompt-block * {
+  font-family: var(--font-family);
+  font-variant-ligatures: none;
+}
+
+.prompt-block + .prompt-block {
+  margin-top: 0.45rem;
+}
+
+.prompt-block p:first-of-type {
+  color: var(--accent-yellow);
+  font-weight: 600;
+  margin-bottom: 0.65rem;
+  letter-spacing: 0.015em;
+}
+
+.prompt-block p:not(:first-of-type) {
+  color: var(--text);
+}
+
+.prompt-block ul, .prompt-block ol {
+  margin-left: 1rem;
+}
+
+.prompt-block li + li {
+  margin-top: 0.35rem;
+}
+
+.label {
+  display: inline-block;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--muted);
+  margin-right: 0.35rem;
+}
+
+blockquote {
+  border-left: 2px solid var(--border);
+  margin: 0.6rem 0;
+  padding-left: 0.8rem;
+  color: var(--muted);
+}
+
+footer {
+  margin-top: 1.8rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 640px) {
+  :root {
+    --font-size-base: 16px;
+    --block-padding: 0.95rem 1rem;
+  }
+
+  .shell {
+    padding: 32px 16px 64px;
+  }
+
+  h1 {
+    font-size: 1.7rem;
+  }
+}
