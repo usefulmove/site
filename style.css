@@ -4,21 +4,21 @@
    - Layout/spacing: --max-width, --block-padding, --section-gap
 */
 :root {
-  --bg: #1e1f29;
-  --bg-alt: #1d1f23;
-  --panel: #242733;
+  --bg: #14161f;
+  --bg-alt: #14161f;
+  --panel: #191c27;
   --panel-strong: #2a2e3a;
-  --text: #e5e9f0;
+  --text: #dce1f2;
   --muted: #4c566a;
   --accent-yellow: #ebcb8b;
   --accent-blue: #81a1c1;
   --accent-cyan: #88c0d0;
   --border: #2f3441;
   --border-strong: #353b48;
-  --font-family: "Space Mono", "SFMono-Regular", ui-monospace, "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
+  --font-family: "Space Mono", "Source Code Pro", ui-monospace, "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
   --font-size-base: 20px; /* raise/lower to scale type */
   --line-height: 1.7; /* increase for more breathing room */
-  --max-width: 1080px; /* shell width */
+  --max-width: 1180px; /* shell width */
   --block-radius: 8px;
   --block-padding: 1.05rem 1.15rem;
   --section-gap: 1.5rem; /* vertical rhythm */

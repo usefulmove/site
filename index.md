@@ -10,75 +10,66 @@ description: "Quiet, systems-oriented engineering leader building trustworthy da
 ::: prompt-block
 ~ $ whoami
 
-Systems and data leader who builds trustworthy pipelines and calm teams in complex environments (automation, labs, robotics, medical devices). I help organizations understand themselves through their data and keep the plumbing reliable.
+Seasoned engineering and data systems leader with 25+ years of experience driving innovation and building high-performing
+teams that translate development objectives into business outcomes in medical device, robotics, and
+lab automation. I help organizations understand themselves through their data.
+
+[resume](https://raw.githubusercontent.com/usefulmove/o/main/dedmonds_resume.pdf)
 :::
+
 
 ::: prompt-block
 ~ $ contact
 
 Oakland, CA  
-510-393-4416  
+510.393.4416  
 duane.edmonds@gmail.com  
 [linkedin](https://www.linkedin.com/in/dedmonds/) | [dedmonds.co](https://dedmonds.co) | [github.com/usefulmove](https://github.com/usefulmove)
 :::
 
-::: prompt-block
-~ $ cat README.md
 
-- Make fragmented data coherent and trustworthy.
-- Reveal patterns and bottlenecks through deep analysis.
-- Translate complex systems into clear stories that guide decisions.
-- Build tools at the intersection of data retrieval, knowledge organization, analytics engineering, and pipeline reliability.
+::: prompt-block
+~ $ cat HIGHLIGHTS.md
+
+- Unified automation engineering, data analysis, and cloud computing at SummerBio, enabling 20+ million PCR tests with
+an industry-leading 11-hour average turnaround and a peak throughput of 128,000 tests/day.
+- Built data pipeline from Salesforce LIMS database to a Snowflake data warehouse, improving LIMS robustness and
+significantly enhancing analytical performance, enabling real-time decision-making.
+- Led development and global launch of the Ekso Bionics EksoNR exoskeleton, reaching 112+ million steps for stroke and
+spinal cord injury rehabilitation in 30+ countries.
+- Scaled engineering organizations from startup to global compliance environments while fostering data-informed decision
+cultures grounded in mentorship and accountability.
 :::
 
-::: prompt-block
-~ $ whatido
 
-- Data and analytics architecture (Snowflake, DuckDB, SQL, Python, Polars).
-- Pipeline reliability and systems engineering for high-stakes environments.
+::: prompt-block
+~ $ strengths -concise
+
 - Calm technical leadership: structured practices, clarity, mentoring.
-- Product-thinking for human decisions: dashboards, storytelling, meaningful metrics.
-:::
-
-::: prompt-block
-~ $ projects --brief
-
-- **Consultant (Oakland, 2022–now):** Short automation and data engagements; advanced analytics workflows with SQL/DuckDB/Python; redesigned a React-based robotics UI to simplify operator flows; mentorship for engineers moving into leadership.
-- **SummerBio — VP Engineering:** Unified automation, LIMS, and data architecture for a 24/7 CLIA lab (20M+ PCR tests); built the Salesforce LIMS → Snowflake pipeline for real-time decisions; drove throughput to 128k tests/day with data-guided optimizations; standardized engineering and program practices.
-- **Johnson & Johnson — OTTAVA surgical robotics:** Program-managed advanced development across system architecture, risk, simulation, and analytics; aligned engineering choices with clinical impact and program strategy.
-- **Ekso Bionics:** Directed R&D and compliance for FDA-cleared EksoNR exoskeleton; embedded telemetry in every device for reliability insight; built software/controls/embedded teams and global QMS for medical markets.
-- **Agilent/Velocity11:** Designed a 5-axis microplate-handling robot and embedded control with diagnostics for life-science automation.
-:::
-
-::: prompt-block
-~ $ strengths --in-practice
-
-- Systems thinker across technical, operational, and organizational layers.
+- Systems thinking across technical, operational, and organizational layers.
+- Bridges engineering, analytics, and product to make decisions human and actionable (dashboards, storytelling,
+meaningful metrics).
 - Fluent in chaotic environments; brings structure without heaviness.
-- Bridges engineering, analytics, and product to make decisions human and actionable.
 - Develops leaders and teams with clarity, integrity, and accountability.
 :::
 
-::: prompt-block
-~ $ signal --recent
-
-- Built and validated an algorithm to catch false-positive thermocycler results.
-- Introduced real-time dashboards for traceability across automation, LIMS, and lab ops.
-- Implemented variable-ratio pooling and process improvements to lift capacity by 30%.
-- Combined telemetry, complaint data, and CAPA signals to prioritize reliability fixes.
-:::
 
 ::: prompt-block
-~ $ working-style
+~ $ skills
 
-- Default to calm, written clarity and intentional rituals.
-- Bias toward instrumentation, observability, and reversible decisions.
-- Prefer small, composable tools over sprawling platforms.
-- Believe in teaching as a core leadership duty.
-:::
+Leadership & Strategy:
 
-::: prompt-block
-~ $ change-log --how-to-extend
+Organizational scaling, data-informed decision-making, medical device, design controls, risk management, regulatory
+compliance, lab automation, Objectives & Key Results (OKRs), program and project management, cross-functional
+leadership, executive communication, coaching and team development.
 
-To add a section, duplicate a `prompt-block` in this file, change the first line to your new command (e.g., `~ $ writing --now`), and add Markdown below it. Tune typography, spacing, and colors in `style.css`. Adjust the header prompt or metadata in `template.html` and the YAML front matter above.
+Technical & Tools:
+
+Systems engineering, robotics, automation, mechatronics, embedded systems, data analysis and visualization (SQL, DuckDB,
+Python, Polars, R), UI/UX development (React, TypeScript, Figma), simulation and system modeling.
+
+Standards & Compliance:
+
+21 CFR 820 (QSR), ISO 13485 (QMS), Medical Device Directive 93/42/EEC, IEC 62304 (Software Development), ISO 14971
+(Risk Management), IEC 60601-1 (Safety and Essential Performance), HIPAA, MEDDEV 2.7/1 (Clinical Evaluation).
 :::
