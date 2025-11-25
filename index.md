@@ -1,6 +1,6 @@
 ---
-title: "systems & data"
-description: "Quiet, systems-oriented engineering leader building trustworthy data platforms and calm teams."
+title: "about me:"
+description: "Quiet, systems-oriented engineering leader building trustworthy data platforms and teams"
 ---
 
 # Duane Edmonds
@@ -12,7 +12,9 @@ description: "Quiet, systems-oriented engineering leader building trustworthy da
 
 Seasoned engineering and data systems leader with 25+ years of experience driving innovation and building high-performing
 teams that translate development objectives into business outcomes in medical device, robotics, and
-lab automation. I help organizations understand themselves through their data.
+lab automation.
+
+I help organizations understand themselves through their data.
 
 [resume](https://raw.githubusercontent.com/usefulmove/o/main/dedmonds_resume.pdf)
 :::
@@ -35,8 +37,8 @@ duane.edmonds@gmail.com
 an industry-leading 11-hour average turnaround and a peak throughput of 128,000 tests/day.
 - Built data pipeline from Salesforce LIMS database to a Snowflake data warehouse, improving LIMS robustness and
 significantly enhancing analytical performance, enabling real-time decision-making.
-- Led development and global launch of the Ekso Bionics EksoNR exoskeleton, reaching 112+ million steps for stroke and
-spinal cord injury rehabilitation in 30+ countries.
+- Led development and global launch of the EksoNR exoskeleton, reaching 112+ million steps for stroke and spinal cord
+injury rehabilitation in 30+ countries.
 - Scaled engineering organizations from startup to global compliance environments while fostering data-informed decision
 cultures grounded in mentorship and accountability.
 :::
@@ -49,7 +51,7 @@ cultures grounded in mentorship and accountability.
 - Systems thinking across technical, operational, and organizational layers.
 - Bridges engineering, analytics, and product to make decisions human and actionable (dashboards, storytelling,
 meaningful metrics).
-- Fluent in chaotic environments; brings structure without heaviness.
+- Fluent in chaotic environments; brings structure without adding heaviness.
 - Develops leaders and teams with clarity, integrity, and accountability.
 :::
 
@@ -65,8 +67,8 @@ leadership, executive communication, coaching and team development.
 
 Technical & Tools:
 
-Systems engineering, robotics, automation, mechatronics, embedded systems, data analysis and visualization (SQL, DuckDB,
-Python, Polars, R), UI/UX development (React, TypeScript, Figma), simulation and system modeling.
+Systems engineering, robotics, automation, mechatronics, embedded systems, algorithms (Python, Scala, Rust), data
+analysis and visualization (SQL, DuckDB, Polars, R), UX development (React, TypeScript, Figma), simulation and modeling.
 
 Standards & Compliance:
 
