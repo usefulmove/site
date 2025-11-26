@@ -1,5 +1,5 @@
 ---
-title: "about me:"
+title: "about me"
 description: "Quiet, systems-oriented engineering leader building trustworthy data platforms and teams"
 ---
 
