@@ -12,7 +12,7 @@
   --accent-cyan: #88c0d0;
   --border: #2f3441;
   --font-family: "Space Mono", "Source Code Pro", ui-monospace, "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
-  --font-size-base: 20px; /* raise/lower to scale type */
+  --font-size-base: 22px; /* raise/lower to scale type */
   --line-height: 1.7; /* increase for more breathing room */
   --max-width: 1180px; /* shell width */
   --block-radius: 8px;
