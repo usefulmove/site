@@ -26,7 +26,7 @@ I help organizations understand themselves through their data.
 Oakland, CA  
 510.393.4416  
 duane.edmonds@gmail.com  
-[linkedin](https://www.linkedin.com/in/dedmonds/) | [dedmonds.co](https://dedmonds.co) | [github.com/usefulmove](https://github.com/usefulmove)
+[linkedin](https://www.linkedin.com/in/dedmonds/) | [github.com/usefulmove](https://github.com/usefulmove)
 :::
 
 
@@ -35,8 +35,8 @@ duane.edmonds@gmail.com
 
 - Unified automation engineering, data analysis, and cloud computing at SummerBio, enabling 20+ million PCR tests with
 an industry-leading 11-hour average turnaround and a peak throughput of 128,000 tests/day.
-- Built data pipeline from Salesforce LIMS database to a Snowflake data warehouse, improving LIMS robustness and
-significantly enhancing analytical performance, enabling real-time decision-making.
+- Built a data pipeline from Salesforce LIMS to Snowflake that improved LIMS robustness and enhanced analytical
+performance, enabling real-time decision-making.
 - Led development and global launch of the EksoNR exoskeleton, reaching 112+ million steps for stroke and spinal cord
 injury rehabilitation in 30+ countries.
 - Scaled engineering organizations from startup to global compliance environments while fostering data-informed decision
