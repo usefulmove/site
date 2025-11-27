@@ -16,7 +16,7 @@ lab automation.
 
 I help organizations understand themselves through their data.
 
-[resume](https://raw.githubusercontent.com/usefulmove/o/main/dedmonds_resume.pdf)
+[resume](dedmonds_resume.pdf)
 :::
 
 
