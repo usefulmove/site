@@ -4,12 +4,13 @@
    - Layout/spacing: --max-width, --block-padding, --section-gap
 */
 :root {
-  --bg: #14161f;
-  --panel: #191c27;
-  --text: #d3daf4;
+  --bg: #13131e;
+  --panel: #1e1e2e;
+  --text: #cdd6f4;
   --muted: #4c566a;
   --accent-yellow: #ebcb8b;
-  --accent-cyan: #88c0d0;
+  --accent-blue: #5f9afa;
+  --accent-dim: #616161;
   --border: #2f3441;
   --font-family: "MonoLisa", "Space Mono", "Cousine", "Source Code Pro", "JetBrains Mono", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
   --font-size-base: 22px; /* raise/lower to scale type */
@@ -62,7 +63,7 @@ h1 {
 
 h2 {
   font-size: 1.3rem;
-  color: var(--accent-cyan);
+  color: var(--accent-blue);
 }
 
 p {
@@ -75,7 +76,7 @@ ul, ol {
 }
 
 a {
-  color: var(--accent-cyan);
+  color: var(--accent-blue);
   text-decoration: none;
 }
 
@@ -88,7 +89,7 @@ strong {
 }
 
 em {
-  color: var(--accent-cyan);
+  color: var(--accent-blue);
 }
 
 code {
@@ -126,7 +127,7 @@ hr {
 }
 
 .header-line {
-  color: var(--accent-cyan);
+  color: var(--accent-dim);
   border-bottom: 1.5px solid var(--border);
   padding-bottom: 0.35rem;
   margin-bottom: 0.9rem;
