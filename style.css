@@ -12,7 +12,7 @@
   --accent-blue: #5f9afa;
   --accent-dim: #616161;
   --border: #2f3441;
-  --font-family: "MonoLisa", "Space Mono", "Cousine", "Source Code Pro", "JetBrains Mono", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
+  --font-family: "Source Code Pro", "MonoLisa", "Space Mono", "Cousine", "JetBrains Mono", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
   --font-size-base: 22px; /* raise/lower to scale type */
   --line-height: 1.7; /* increase for more breathing room */
   --max-width: 1180px; /* shell width */
