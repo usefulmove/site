@@ -4,8 +4,8 @@
    - Layout/spacing: --max-width, --block-padding, --section-gap
 */
 :root {
-  --bg: #14121d;
-  --panel: #191724;
+  --bg: #191724;
+  --panel: #14121d;
   --text: #e0def4;
   --muted: #4c566a;
   --accent-gold: #f6c177;
