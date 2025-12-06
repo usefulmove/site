@@ -11,7 +11,7 @@
   --accent-gold: #f6c177;
   --accent-pine: #31748f;
   --accent-dim: #6e6aa6;
-  --border: #191724;
+  --border: #0d0c12;
   --font-family: "JetBrains Mono", "Source Code Pro", "MonoLisa", "Space Mono", "Cousine", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
   --font-size-base: 22px; /* raise/lower to scale type */
   --line-height: 1.7; /* increase for more breathing room */
@@ -130,7 +130,7 @@ hr {
   color: var(--accent-dim);
   border-bottom: 1.5px solid var(--border);
   padding-bottom: 0.35rem;
-  margin-bottom: 0.9rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Terminal-style blocks: duplicate in Markdown to add new sections. */
