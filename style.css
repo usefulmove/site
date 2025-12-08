@@ -12,8 +12,8 @@
   --accent-pine: #31748f;
   --accent-dim: #6e6aa6;
   --border: #0d0c12;
-  --font-family: "JetBrains Mono", "Source Code Pro", "MonoLisa", "Space Mono", "Cousine", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
-  --font-size-base: 22px; /* raise/lower to scale type */
+  --font-family: "Space Mono", "JetBrains Mono", "Source Code Pro", "MonoLisa", "Cousine", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
+  --font-size-base: 28px; /* raise/lower to scale type */
   --line-height: 1.7; /* increase for more breathing room */
   --max-width: 1180px; /* shell width */
   --block-radius: 8px;
