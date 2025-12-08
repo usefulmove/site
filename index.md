@@ -14,7 +14,7 @@ Seasoned engineering and data systems leader with 25+ years of experience drivin
 teams that translate development objectives into business outcomes in medical device, robotics, and
 lab automation.
 
-I help organizations understand themselves through their data.
+I help organizations <span class="accent">understand themselves through their data</span>.
 
 [resume](dedmonds_resume.pdf)
 :::
@@ -33,14 +33,27 @@ duane.edmonds@gmail.com
 ::: prompt-block
 ~ ❭ cat HIGHLIGHTS.md
 
-- Unified automation engineering, data analysis, and cloud computing at SummerBio, enabling 20+ million PCR tests with
-an industry-leading 11-hour average turnaround and a peak throughput of 128,000 tests/day.
-- Built a data pipeline from Salesforce LIMS to Snowflake that improved LIMS robustness and enhanced analytical
-performance, enabling real-time decision-making.
-- Led development and global launch of the EksoNR exoskeleton, reaching 112+ million steps for stroke and spinal cord
-injury rehabilitation in 30+ countries.
-- Scaled engineering organizations from startup to global compliance environments while fostering data-informed decision
-cultures grounded in mentorship and accountability.
+- Unified automation engineering, data analysis, and cloud computing at SummerBio, enabling
+<span class="accent">20+ million PCR tests</span>
+with an industry-leading
+<span class="accent">11-hour average turnaround</span>
+and a peak throughput of
+<span class="accent">128,000 tests/day</span>
+.
+- Built a
+<span class="accent">data pipeline from Salesforce LIMS to Snowflake</span>
+that improved LIMS robustness and enhanced analytical performance, enabling real-time decision-making.
+- Led development and global launch of the
+<span class="accent">EksoNR exoskeleton</span>
+, reaching
+<span class="accent">112+ million steps</span>
+for stroke and spinal cord
+injury rehabilitation in
+<span class="accent">30+ countries</span>
+.
+- Scaled engineering organizations from
+<span class="accent">startup to global compliance</span>
+environments while fostering data-informed decision cultures grounded in mentorship and accountability.
 :::
 
 
@@ -59,18 +72,18 @@ meaningful metrics).
 ::: prompt-block
 ~ ❭ skills
 
-Leadership & Strategy:
+<span class="accent">Leadership & Strategy:</span>
 
 Organizational scaling, data-informed decision-making, medical device, design controls, risk management, regulatory
 compliance, lab automation, Objectives & Key Results (OKRs), program and project management, cross-functional
 leadership, executive communication, coaching and team development.
 
-Technical & Tools:
+<span class="accent">Technical & Tools:</span>
 
 Systems engineering, robotics, automation, mechatronics, embedded systems, algorithms (Python, Scala, Rust), data
 analysis and visualization (SQL, DuckDB, Polars, R), UI/UX development (React, TypeScript, Figma), simulation and modeling.
 
-Standards & Compliance:
+<span class="accent">Standards & Compliance:</span>
 
 21 CFR 820 (QSR), ISO 13485 (QMS), Medical Device Directive 93/42/EEC, IEC 62304 (Software Development), ISO 14971
 (Risk Management), IEC 60601-1 (Safety and Essential Performance), HIPAA, MEDDEV 2.7/1 (Clinical Evaluation).
