@@ -72,18 +72,18 @@ meaningful metrics).
 ::: prompt-block
 ~ ❭ skills
 
-<span class="accent">Leadership & Strategy:</span>
+<span class="dimmed">Leadership & Strategy:</span>
 
 Organizational scaling, data-informed decision-making, medical device, design controls, risk management, regulatory
 compliance, lab automation, Objectives & Key Results (OKRs), program and project management, cross-functional
 leadership, executive communication, coaching and team development.
 
-<span class="accent">Technical & Tools:</span>
+<span class="dimmed">Technical & Tools:</span>
 
 Systems engineering, robotics, automation, mechatronics, embedded systems, algorithms (Python, Scala, Rust), data
 analysis and visualization (SQL, DuckDB, Polars, R), UI/UX development (React, TypeScript, Figma), simulation and modeling.
 
-<span class="accent">Standards & Compliance:</span>
+<span class="dimmed">Standards & Compliance:</span>
 
 21 CFR 820 (QSR), ISO 13485 (QMS), Medical Device Directive 93/42/EEC, IEC 62304 (Software Development), ISO 14971
 (Risk Management), IEC 60601-1 (Safety and Essential Performance), HIPAA, MEDDEV 2.7/1 (Clinical Evaluation).

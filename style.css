@@ -7,11 +7,13 @@
   --bg: #191724;
   --panel: #14121d;
   --text: #e0def4;
-  --muted: #6e6aa6;
+  --muted: #6e6a86;
   --accent-foam: #9ccfd8;
-  --accent-rose: #eb6f92;
   --accent-gold: #f6c177;
+  --accent-iris: #c4a7e7;
+  --accent-love: #eb6f92;
   --accent-pine: #31748f;
+  --accent-rose: #ebbcba;
   --border: #0d0c12;
   --font-family: "Space Mono", "JetBrains Mono", "Source Code Pro", "MonoLisa", "Cousine", "Menlo", "Consolas", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace; /* reorder to change the primary face */
   --font-size-base: 28px; /* raise/lower to scale type */
@@ -124,7 +126,7 @@ hr {
 }
 
 .accent {
-  color: var(--accent-foam);
+  color: var(--accent-love);
 }
 
 .prompt-line {
